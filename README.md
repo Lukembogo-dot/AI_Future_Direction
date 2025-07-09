@@ -44,7 +44,7 @@ We simulate this with a simple image classifier trained using **TensorFlow**, co
 ### 📁 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/recyclable-edge-ai.git
+git clone https://github.com/yourusername/recyclable-edge-ai.git](https://github.com/Lukembogo-dot/AI_Future_Direction.git
 cd recyclable-edge-ai
 ```
 ### 🛠️ 2. Create and Activate a Virtual Environment
